@@ -4,7 +4,7 @@ plugins {
 android {
     compileSdk 31
     defaultConfig {
-        applicationId "com.calculatorjk.app"
+        applicationId "com.dts.garenatore.app"
         minSdk 21
         targetSdk 31
         versionCode 1
