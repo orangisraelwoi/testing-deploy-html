@@ -1,2 +1,2 @@
 #!/usr/bin/env sh
-# Gradle wrapper mock...
+# Gradle mock
